@@ -5,12 +5,12 @@ Student, Frontend Web Desinger
 ------------------------------
 
 Phil Higdon a front-end web designer whose passion for web development and design has led him on an exciting journey of self-discovery and professional growth. With a deep-rooted commitment to creating captivating and user-friendly online experiences, Phil has honed his expertise in various web technologies, including HTML, CSS, SCSS, and CSS animations/transitions. 
-<br><br>
-Phil's journey into the world of web design began in 2020 with a genuine fascination for the internet's power to connect, inform, and inspire. Over the last few years, he dedicated countless hours to learning the intricacies of HTML and CSS, mastering the art of crafting elegant and responsive websites that seamlessly adapt to different devices and screen sizes. His dedication to staying on the cutting edge of industry trends and best practices is evident in his work, which consistently reflects the latest design principles and technological advancements.
-<br><br>
-One of Phil's standout skills is his proficiency in SCSS (Sassy CSS), a powerful preprocessor that allows for more efficient and organized styling of web pages. His mastery of SCSS not only streamlines the design process but also ensures maintainability and scalability, a testament to his commitment to delivering high-quality, future-proof solutions for his clients.
-<br><br>
-In the ever-evolving world of web design, Phil Higdon continually strives for excellence. His commitment to learning, creativity.
+
+Phil's journey into the world of web design began in 2020 with a genuine fascination for the internet's power to connect, inform, and inspire. Over the last few years, he dedicated countless hours to learning the intricacies of HTML and CSS, mastering the art of crafting elegant and responsive websites that seamlessly adapt to different devices and screen sizes. 
+
+His dedication to staying on the cutting edge of industry trends and best practices is evident in his work, which consistently reflects the latest design principles and technological advancements. One of Phil's standout skills is his proficiency in SCSS (Sassy CSS), a powerful preprocessor that allows for more efficient and organized styling of web pages. 
+
+His mastery of SCSS not only streamlines the design process but also ensures maintainability and scalability, a testament to his commitment to delivering high-quality, future-proof solutions for his clients. In the ever-evolving world of web design, Phil Higdon continually strives for excellence. His commitment to learning, creativity.
 
 * 🌍  I'm based in United Kingdom
 * 🖥️  See my portfolio at [My Profolio](http://phils-portfolio.co.uk/)
